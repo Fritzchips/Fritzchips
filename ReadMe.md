@@ -1,8 +1,8 @@
-## Hello Fellow Developers
+## Welcome Fellow Developers 😃
 
 ---
 
-Hi how are you?
+Hi how are you? 👋
 
 My name is Fritz. Thank you for taking the time to view my GitHub profile.
 
@@ -10,13 +10,15 @@ My name is Fritz. Thank you for taking the time to view my GitHub profile.
 
 ---
 
-- I'm currently in the Job Hunt process
+- 🌅 I'm currently in the Job Hunt process
 
-- I'm currently learning Job Hunt Interviews, Data-Structures and Algorithms
+- 👨‍🎓 I'm currently learning Job Hunt Interviews, Data-Structures and Algorithms
 
-- I'm looking to connect with other developers and build my network
+- 🤝 I'm looking to connect with other developers and build my network
 
-- Talk to me about C# .NET ,
+- 💡 I'm interested in learning new frameworks and programming languages
+
+- 🌈 I'm interested in learning game design
 
 ## Skills
 
