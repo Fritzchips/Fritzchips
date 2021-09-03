@@ -20,17 +20,17 @@ My name is Fritz. Thank you for taking the time to view my GitHub profile.
 
 - 🌈 I'm interested in learning game design
 
-## Skills
+## Skills ⭐
 
 ---
 
 <img width="50"  src="./images/html_icon.png"><img width="50"  src="./images/css_icon.png"><img width="50"  src="./images/javascript_icon.png"><img width="50"  src="./images/react_icon.png">
 <img width="50"  src="./images/node_icon.png"><img width="50"  src="./images/bootstrap_icon.png"><img width="55"  src="./images/csharp_icon.png"><img width="60"  src="./images/aspnet_icon.png"><img width="50"  src="./images/postgresql_icon.png"><img width="50"  src="./images/azure_icon.png"><img width="50"  src="./images/heroku_icon.png">
 
-## More info
+## Connect with me 🙌
 
 ---
 
-- 🌱 [Portfolio]("https://fritz-website.herokuapp.com/")
+- 🌱 [Portfolio](https://fritz-website.herokuapp.com/)
 
-- 📰 [LinkedIn]("https://www.linkedin.com/in/fritz-solibio-4aa9b321b/")
+- 📰 [LinkedIn](https://www.linkedin.com/in/fritz-solibio-4aa9b321b/)
