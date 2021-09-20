@@ -23,6 +23,6 @@ My name is Fritz. Thank you for taking the time to view my GitHub profile.
 
 ## Connect with me 🙌
 
-- 🌱 [Portfolio](https://fritz-website.herokuapp.com/)
+- 🌱 [Portfolio](https://www.fritzsolibio.ca/)
 
 - 📰 [LinkedIn](https://www.linkedin.com/in/fritz-solibio-4aa9b321b/)
