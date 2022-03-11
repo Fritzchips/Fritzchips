@@ -6,7 +6,7 @@ My name is Fritz. Thank you for taking the time to view my GitHub profile.
 
 ## About Me
 
-- 🌅 I'm currently in the Job Hunt process
+- 🌅 I'm currently working as a Software Developer
 
 - 👨‍🎓 I'm currently learning Job Hunt Interviews, Data-Structures and Algorithms
 
