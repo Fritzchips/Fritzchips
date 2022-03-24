@@ -8,13 +8,11 @@ My name is Fritz. Thank you for taking the time to view my GitHub profile.
 
 - 🌅 I'm currently working as a Software Developer
 
-- 👨‍🎓 I'm currently learning Job Hunt Interviews, Data-Structures and Algorithms
-
 - 🤝 I'm looking to connect with other developers and build my network
 
 - 💡 I'm interested in learning new frameworks and programming languages
 
-- 🌈 I'm interested in learning game design
+- 🌈 I'm currently learning Game Development as a hobby
 
 ## Skills ⭐
 
